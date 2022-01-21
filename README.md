@@ -1,2 +1,4 @@
 # PS3
-Le bot PS3 de discord. Tu peux rejoindre notre serveur discord pour avoir des codes en avant première et avoir des cids : https://discord.gg/CNrTByTcVk . 
+Un bot discord créer en version V12. 
+Ce bot est très utile pour PS3. Il propose pleins d'aide.
+Notre serveur discord: https://discord.gg/yCnbEcvdFH
